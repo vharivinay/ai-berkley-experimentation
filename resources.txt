@@ -1,0 +1,19 @@
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/ | How to Develop LSTM Models for Time Series Forecasting
+https://en.wikipedia.org/wiki/Breadth-first_search | Breadth-first search - Wikipedia
+https://en.wikipedia.org/wiki/Depth-first_search#:~:text=Depth%2Dfirst%20search%20(DFS),along%20each%20branch%20before%20backtracking. | Depth-first search - Wikipedia
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | Dijkstra's algorithm - Wikipedia
+
+https://towardsdatascience.com/time-series-prediction-beyond-test-data-3f4625019fd9 | Time-Series Prediction Beyond Test Data | by Andrej Baranovskij | Towards Data Science
+https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/ | How to Use the TimeseriesGenerator for Time Series Forecasting in Keras
+
+https://www.youtube.com/watch?v=d4Sn6ny_5LI | (1) Time Series Prediction - YouTube
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi | (1) Neural networks - YouTube
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | (1) Essence of linear algebra - YouTube
+
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/ | How to Setup Your Python Environment for Machine Learning with Anaconda
+http://ai.berkeley.edu/search.html | Berkeley AI Materials
+https://towardsdatascience.com/training-an-agent-to-beat-grid-world-fac8a48109a8 | Training an Agent to beat Grid World | by Anson Wong | Towards Data Science
+http://ai.berkeley.edu/project_overview.html | Berkeley AI Materials
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/ | How to Develop a CNN for MNIST Handwritten Digit Classification
+http://ai.berkeley.edu/reinforcement.html | Berkeley AI Materials
+https://machinelearningmastery.com/time-series-forecasting/ | What Is Time Series Forecasting?
