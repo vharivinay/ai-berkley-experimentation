@@ -16,4 +16,5 @@ https://towardsdatascience.com/training-an-agent-to-beat-grid-world-fac8a48109a8
 http://ai.berkeley.edu/project_overview.html | Berkeley AI Materials
 https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/ | How to Develop a CNN for MNIST Handwritten Digit Classification
 http://ai.berkeley.edu/reinforcement.html | Berkeley AI Materials
-https://machinelearningmastery.com/time-series-forecasting/ | What Is Time Series Forecasting?
+https://machinelearningmastery.com/time-series-forecasting/ | What Is Time Series Forecasting? 
+
