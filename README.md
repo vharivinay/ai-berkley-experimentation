@@ -3,8 +3,10 @@
 **1. Solutions to search algorithms for pacman game**
   -Download lab1_all
   -Follow instructions from here to use the code in lab1_all http://ai.berkeley.edu/search.html
+  
 **2. Time Series Predictions for stock data**
   -Just download timeseries and check for dependencies and run TSP-LSTM.ipynb using jupyter notebook
+  
 **3. MNIST hand written digit classification using tenserflow and keras**
   -Download lab2_imageClassification, check for dpendencies by running versions.ipynb in jupyter
   notebook and install required packages
