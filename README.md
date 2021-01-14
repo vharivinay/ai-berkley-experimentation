@@ -5,7 +5,7 @@
   -Follow instructions from here to use the code in lab1_all http://ai.berkeley.edu/search.html
 
 # What I learned
-* **Concepts and Implementation of search algorithms such as 
+* **Concepts and Implementation of search algorithms such as**
   * breadth first search
   * deapth first search
   * uniform cost graph search functions 
